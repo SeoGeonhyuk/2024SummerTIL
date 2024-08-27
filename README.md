@@ -2,6 +2,9 @@
 # 부스트캠프 챌린지 수료
 <img width="684" alt="image" src="https://github.com/user-attachments/assets/653cbeca-2cd7-4cf9-8093-01380ef1dcdb">
 
+# 부스트캠프 멤버십 입과
+<img width="652" alt="image" src="https://github.com/user-attachments/assets/f364430f-43d3-4c32-9b88-00e6bcaa0303">
+
 # 프로세스의 메모리 구조
 
 기본적으로 프로그램을 실행하는 과정은 다음과 같은 과정으로 진행된다.
